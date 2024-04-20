@@ -1,0 +1,23 @@
+{
+  "name": "react-js-whatapp-interkate",
+  "version": "1.0.0",
+  "description": "web hooks useing node js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishanmihani/react-js-whatapp-interkate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishanmihani/react-js-whatapp-interkate/issues"
+  },
+  "homepage": "https://github.com/kishanmihani/react-js-whatapp-interkate#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "body-parser": "^1.20.2"
+  }
+}
